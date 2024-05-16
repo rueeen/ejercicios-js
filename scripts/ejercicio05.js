@@ -28,3 +28,8 @@ function saludandoDesdeBoton(){
 
 let dato = prompt('Ingrese un dato');
 console.log(dato);
+
+console.log(typeof dato);
+console.log(parseInt(dato));
+
+document.write('Esto escribe en el HTML');
